@@ -1,0 +1,33 @@
+ .b{
+ background-image:url("background.jpg");
+ background-repeat:no-repeat;
+ background-size:750px;
+ background-width:2000px;
+ background-position:center;
+}
+h1,h2,h3,h4{
+  text-shadow:0px 0px 2px red;}
+a:link{
+    color:blue;
+    }
+    a:active{
+    color:green;
+    }
+   a:visited{
+    color:black;}
+    #a4{
+    cursor:help}
+    a:hover{
+    background-color:pink;}
+     .c1{
+   font-family:Cooper;}
+    .c2{
+   font-family:Edwardian Script ITC;}
+   .c3{
+   font-family:Comic Sans MS;}
+   pre
+ {
+ cursor:crosshair;
+ }
+ 
+  

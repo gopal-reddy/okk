@@ -1,0 +1,47 @@
+AIM:-
+Design a webpage using css which includes
+ Different font styles
+ Customized cursors(Cross Link,Help Link)
+ Background Image
+ Repetition of Image
+ Styles for Links(Link,Active,Visited,Hover)
+ Work with Layers
+Description:-
+ Using external css styles are applied.
+ In this several css properties are used like Class,Id,Elements.
+ Different styles are applied like background image e.t.c
+ Classes are used by declaring class attribute within the tag
+ Id property is used by providing a specific id to a tag and that properties are specifiedfor that id only.
+SOURCE CODE:-
+ .b{
+ background-image:url("background.jpg");
+ background-repeat:no-repeat;
+ background-size:750px;
+ background-width:2000px;
+ background-position:center;
+}
+h1,h2,h3,h4{
+  text-shadow:0px 0px 2px red;}
+a:link{
+    color:blue;
+    }
+    a:active{
+    color:green;
+    }
+   a:visited{
+    color:black;}
+    #a4{
+    cursor:help}
+    a:hover{
+    background-color:pink;}
+     .c1{
+   font-family:Cooper;}
+    .c2{
+   font-family:Edwardian Script ITC;}
+   .c3{
+   font-family:Comic Sans MS;}
+   pre
+ {
+ cursor:crosshair;
+ }
+ OUTPUT:-
